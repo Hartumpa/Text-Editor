@@ -37,7 +37,7 @@ function App() {
     <>
       <BrowserRouter>
         <Navbar
-          title={"My Site"}
+          title={"My Text Editor"}
           about={"MY About"}
           mode={Mode}
           toggleMode={toggleMode}
